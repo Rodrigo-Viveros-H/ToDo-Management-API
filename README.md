@@ -25,7 +25,7 @@ Una API REST robusta para administrar tareas (ToDo), desarrollada como parte de 
 
 1. Clonar repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone [[URL_DEL_REPOSITORIO](https://github.com/Rodrigo-Viveros-H/ToDo-Management-API.git)]
    cd todo-api
    ```
 2. Configurar la Base de Datos:
